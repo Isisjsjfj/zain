@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.jo.zain.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	yk4xbmtcplqexis0tmkjm3lc
+www.jo.zain.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.jo.zain.com	TRUE	/	FALSE	1999999999	BIGipServer~Zain_Published_Services~Zain_Portal_443	rd65101o00000000000000000000ffffac6414d5o443
+cdn-eshop.jo.zain.com	TRUE	/	FALSE	1999999999	BIGipServer~Zain_Published_Services~ZJ-E-Shop-CDN-Pool	rd65101o00000000000000000000ffffac641423o443
+cdn-eshop.jo.zain.com	TRUE	/	FALSE	1999999999	TS014a93ca	0194a43bf910d3cd996db5da7033c5f3eecbbf4ea69438d0eee408b89f8767e0da4d06169b72f08906f7b7952dbeb64201b14303bd4e2a63631d49f4392070e6c9d5c3cdbc
+zain-jordan.dimelochat.com	TRUE	/	FALSE	1999999999	AWSALB	pG7mn3HAOLPkSC08kUIuEHPLWLEokwIij5Tejwq9OpRLf1stCYNdoDqIeIu+pc13yGARLdU8bjmRQ2nryX5O2fBmN3NdVXNqYfUdMSlqfieRb7xclDr9G6sy75I0
+zain-jordan.dimelochat.com	TRUE	/	FALSE	1999999999	AWSALBCORS	pG7mn3HAOLPkSC08kUIuEHPLWLEokwIij5Tejwq9OpRLf1stCYNdoDqIeIu+pc13yGARLdU8bjmRQ2nryX5O2fBmN3NdVXNqYfUdMSlqfieRb7xclDr9G6sy75I0
+zain-jordan.dimelochat.com	TRUE	/	FALSE	1999999999	SameSite	None
+.www.jo.zain.com	TRUE	/	FALSE	1999999999	TS0179c655	0194a43bf9713fdca5dd9cc85d96afa63c794dc6abd193d9d28bdf9fe0b1cd98cc94f4b57364cce04fcfcadc0e41ea692b55244e0c
+
